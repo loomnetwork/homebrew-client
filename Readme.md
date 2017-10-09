@@ -1,4 +1,4 @@
-# Homebrew Loo,
+# Homebrew Loom
 
 A centralized repository for Loom-related brews.
 
