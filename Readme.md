@@ -11,6 +11,7 @@ A centralized repository for Loom-related brews.
 
 Run the following in your command-line:
 
-```sh
-$ brew tap loomnetwork/homebrew-client
+```bash
+brew tap loomnetwork/client
+brew install loom
 ```
