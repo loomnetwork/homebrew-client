@@ -1,10 +1,10 @@
 class Loom < Formula
   desc "Loom"
   homepage "https://loomx.io/developers/"
-  url "https://private.delegatecall.com/loom/osx/build-1249/loom"
-  sha256 "9c4884f9a5b8386e8e2ff9b381e98abe527e5eeba499c2432cfbad1ffc155249"
+  url "https://private.delegatecall.com/loom/osx/build-1250/loom"
+  sha256 "457a784f5b91b675969502cc2d1ad4af1386420e7020c83e9839cf146ca1d792"
   revision 1
-  version "1249"
+  version "1250"
 
   def install
     bin.install "loom"
